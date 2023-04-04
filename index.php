@@ -6,7 +6,7 @@
     <meta charset="utf-8">
     <meta name="description" content="Volume Sphere Webpage">
     <meta name="keywords" content="immaculata, ics2o">
-    <meta name="author" content="Lily C">
+    <meta name="author" content="Lily Carroll">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     <!--Favicon-->
