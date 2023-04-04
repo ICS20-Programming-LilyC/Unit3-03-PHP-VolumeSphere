@@ -28,7 +28,7 @@
     <h1>Calculating the Volume of a Sphere in PHP with User Input</h1>
 
     <!--Text-->
-    <p>Welcome! This webpage will calculate the volume of a sphere with the input of your data using php. In the image below you can see the formual for the volume of a sphere, which is how it will be calculated.</p>
+    <p>Welcome! This webpage will calculate the volume of a sphere with the input of your data using php. In the image below you can see the formula for the volume of a sphere, which is how it will be calculated.</p>
     <h3>Please insert your input below:</h3>
 
     <!--Image-->
